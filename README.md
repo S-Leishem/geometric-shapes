@@ -22,7 +22,7 @@ manim-shape-transformations
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/S-Leishem/geometric-shapes.git
    cd manim-shape-transformations
    ```
 
